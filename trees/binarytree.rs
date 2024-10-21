@@ -174,4 +174,5 @@ fn main () {
     for node in my_tree.visit_pre_order() {
         println!("{}", node.key);
     }
+	println!("sex");
 }
